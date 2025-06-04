@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/uma-mulher-estilosa.png"
     width="300"
 />
 </p>
@@ -16,7 +16,6 @@
     src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
     alt="🔴 LIVE CODE">
 
-    <img src="https://exemplo.com/nova-imagem"C:\Users\julia\OneDrive\Imagens\uma mulher estilosa .png"" width="300"/>
 </a>
 </p>
 
@@ -26,7 +25,8 @@
 
 <div align="center">
   <div align="center">
-   <audio src=""C:\Users\julia\Downloads\0602_FN5WYiU6.mp4"" controls title="Podcast Jurisprompto"></audio>
+   <audio src="./assets/jurisprompto.mp4
+   " controls title="Podcast Jurisprompto"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
